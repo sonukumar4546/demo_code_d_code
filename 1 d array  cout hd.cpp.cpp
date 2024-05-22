@@ -1,17 +1,9 @@
 
-
-
-
-
-
 # include <iostream>
-
 using namespace std ;
 
 
 int main()
-
-
 {
      
      int A[5];
@@ -24,9 +16,6 @@ int main()
       
       cin>>A[i];
 
-
-
-
      }
       
       
@@ -37,13 +26,7 @@ int main()
      {
 
       cout<<A[i]<<"  ";
-      
- 
- 
-
-
-
-
+     
      }
 
 
