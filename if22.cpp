@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    if(cout<<"simran")
+    if(cout<<"sim")
     {
         cout<<"i love u "<<endl;
     }
